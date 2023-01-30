@@ -4,3 +4,6 @@
 
 ## Security
 [Baseline](https://learn.microsoft.com/en-us/security/benchmark/azure/baselines/app-service-security-baseline)
+
+## Helpful Links
+* [Multi-container deployment](https://learn.microsoft.com/en-us/azure/app-service/quickstart-multi-container)
