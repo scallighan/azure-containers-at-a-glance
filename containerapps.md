@@ -9,4 +9,3 @@
 * UDR: [https://github.com/microsoft/azure-container-apps/issues/227](https://github.com/microsoft/azure-container-apps/issues/227)
 * KeyVault: [https://github.com/microsoft/azure-container-apps/issues/7](https://github.com/microsoft/azure-container-apps/issues/7)
 * Mount Secrets as Volume: [https://github.com/microsoft/azure-container-apps/issues/583](https://github.com/microsoft/azure-container-apps/issues/583)
-* Terraform: [https://github.com/microsoft/azure-container-apps/issues/587](https://github.com/microsoft/azure-container-apps/issues/587) and [https://github.com/hashicorp/terraform-provider-azurerm/pull/18008](https://github.com/hashicorp/terraform-provider-azurerm/pull/18008)
